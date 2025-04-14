@@ -1,4 +1,4 @@
-# Fine Tuning of Vision Language Models using PEFT 
+# Fine Tuning of Large Language Models using PEFT 
 
 Parameter Efficient Fine Tuning(PEFT) has the following techniques :- <br>
 - **Prompt Tuning** : Prepends a trainable tensor to the model's input embeddings, creating a soft prompt.
